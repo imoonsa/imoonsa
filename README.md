@@ -1,12 +1,12 @@
-# Figni Viewer
+# parakeet
 
 ![Figni Viewer](thumbnail.png)
 
-[![npm version](https://badge.fury.io/js/@cynack%2Ffigni-viewer.svg)](https://badge.fury.io/js/@cynack%2Ffigni-viewer)
+[![npm version](https://badge.fury.io/js/@cynack%2Fparakeet.svg)](https://badge.fury.io/js/@cynack%2Fparakeet)
 
 ## ドキュメント
 
-[Figni Viewer ドキュメント](https://cynack.notion.site/Figni-Viewer-c53ca5a80bdd4a8abf4f41aa899aa9f1)
+[Figni Viewer ドキュメント](https://cynack.notion.site/parakeet-c53ca5a80bdd4a8abf4f41aa899aa9f1)
 
 ## 開発方法
 
