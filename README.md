@@ -1,4 +1,4 @@
-# parakeet
+# EgeBkows
 
 ![Figni Viewer](thumbnail.png)
 
