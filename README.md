@@ -1,4 +1,4 @@
-# EgeBkows
+# ebookMachine
 
 ![Figni Viewer](thumbnail.png)
 
