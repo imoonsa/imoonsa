@@ -1,4 +1,4 @@
-# ebookMachine
+# BlendShapeCombiner
 
 ![Figni Viewer](thumbnail.png)
 
